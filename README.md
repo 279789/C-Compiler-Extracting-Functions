@@ -87,8 +87,8 @@ int main() {
 
 #### c) Reflect:
 
-* How is the calculation done?
-* How is the result printed using the syscall?
+* How is the calculation done? The calculation is done in C
+* How is the result printed using the syscall? Doesn't work
 
 ---
 
