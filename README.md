@@ -146,8 +146,8 @@ int main() {
 
 #### b) Reflect:
 
-* How does the external function encapsulate the syscall?
-* Why is this more maintainable?
+* How does the external function encapsulate the syscall? *The external function has to be declared and could than be used in main.*
+* Why is this more maintainable? It's better for maintenence, because you are able find errors faster. Also practical for using the same functions for different problems.
 
 ---
 
